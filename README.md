@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech Information Technology student** focused on building practical software solutions and learning by shipping real projects.
+**B.Tech Information Technology student** focused on building practical software solutions and learning by shipping real projects.
 
 I enjoy **web development, full-stack applications, Firebase & cloud systems, AI-assisted applications, problem solving and hackathons**.
 
