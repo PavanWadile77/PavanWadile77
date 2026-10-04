@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/pavan-wadile-7a7043282"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pavanwadile777@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://pavanwadile77.wixsite.com/wadile"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.instagram.com/pavan_wadile_777"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@pavanwadile777"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/pavan_wadile_777?igsh=djxbDNIdGZ0Nm93"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCOGrSA0TRoyZWdkLk2u30uA"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <br/>
 
@@ -144,8 +144,8 @@ Education and learning focused platform.
 <a href="https://www.linkedin.com/in/pavan-wadile-7a7043282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/PavanWadile77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:pavanwadile777@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/pavan_wadile_777"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@pavanwadile777"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/pavan_wadile_777?igsh=djxbDNIdGZ0Nm93"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCOGrSA0TRoyZWdkLk2u30uA"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <br/><br/>
 
