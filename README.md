@@ -90,6 +90,22 @@ Certificate workflow project exploring streamlined creation, distribution and ve
 
 ---
 
+## ⭐ Pinned Applications
+
+<div align="center">
+
+| Application | Purpose | Access |
+|:---|:---|:---:|
+| 🎓 **Mr.Certi** | Certificate creation, distribution & verification | [🔐 Open App](https://mr-certi.web.app/) |
+| 📚 **UG-eLibrary** | Digital learning & academic resources | [🔐 Open App](https://ug-elibrary.in/) |
+| 🪴 **ALPHA-STUDY** | Student learning & academic resources | [🔐 Open App](http://alpha-study-one.vercel.app/) |
+
+</div>
+
+> **Login / authentication:** Each application opens through its deployed application entry point. Authentication and role-based access are handled inside the respective application.
+
+---
+
 ## 🧩 Project Portfolio
 
 | Repository | Engineering Area |
