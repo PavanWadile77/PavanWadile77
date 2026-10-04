@@ -2,7 +2,7 @@
 
 # PAVAN WADILE
 
-### Software Developer • Full-Stack Builder • IT Engineering Student
+### Information Technology Student • Web Developer • Problem Solver
 
 <p>
 <a href="https://github.com/PavanWadile77"><img src="https://img.shields.io/badge/GitHub-PavanWadile77-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -10,83 +10,194 @@
 <a href="mailto:pavanwadile777@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://pavanwadile77.wixsite.com/wadile"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
+
 <p>
 <a href="https://www.instagram.com/pavan_wadile_777?igsh=djxbDNIdGZ0Nm93"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCOGrSA0TRoyZWdkLk2u30uA"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
 <a href="https://www.facebook.com/pavan.wadile.777/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
 </p>
+
 <img src="https://komarev.com/ghpvc/?username=PavanWadile77&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## 👨‍💻 Developer Profile
+## 👨‍💻 About Me
 
-> **Building practical software products from problem → architecture → implementation → deployment.**
+I am a **B.Tech Information Technology student at SVKM College of Engineering, Shirpur (DBATU)**, focused on **web development, problem-solving, practical application development, technology and innovation**.
 
-I am a **B.Tech Information Technology student** focused on software development, full-stack applications, cloud-backed systems and product engineering.
+I enjoy converting ideas into working applications and exploring how software can solve real-world problems through structured development and continuous learning.
 
-My GitHub is a collection of **real projects, experiments, academic implementations and hackathon work** covering education, certificate automation, agriculture, transportation, productivity and e-commerce.
-
-### Current Direction
-- Full-stack web application development
-- Strong C / Java programming fundamentals
-- React + TypeScript development
-- Firebase / Firestore application architecture
-- Cloud deployment and production workflows
-- Automation-oriented software
-- AI-assisted development and emerging technologies
+> **Focus:** Web Development • Problem Solving • Technology • Innovation
 
 ---
 
-## ⚙️ Engineering Snapshot
+## 🎓 Education
 
-| Layer | Technologies |
+| Qualification | Institution / Board | Details |
+|:---|:---|:---|
+| **B.Tech — Information Technology** | SVKM College of Engineering, Shirpur (DBATU) | 2025 – 2029 · 1st Sem SGPA: **7.3** |
+| **HSC — Class 12** | Maharashtra State Board | 2025 · **73.33%** |
+| **SSC — Class 10** | Maharashtra State Board | 2023 · **82.20%** |
+
+---
+
+## 🧠 Technical Skills
+
+<div align="center">
+
+### Programming & Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,c,java,javascript" />
+
+### Frameworks & Development Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase" />
+
+</div>
+
+### Technical Areas
+
+- **Programming:** C, Java
+- **Web:** HTML, CSS, JavaScript
+- **Frameworks:** React, Next.js, Tailwind CSS
+- **Backend / Platform:** Node.js, Firebase
+- **Other:** Problem Solving, Graphic Design
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Mr.Certi — E-Certificate Distribution Platform
+
+**2026 · React · Firebase · Node.js · Tailwind CSS**
+
+Mr.Certi is an e-certificate distribution platform designed to automate certificate generation and distribution for **events, workshops and academic programs**.
+
+### Key Engineering Features
+
+- Automated certificate generation
+- Certificate distribution workflow
+- QR-based certificate verification
+- Participant management
+- Email delivery
+
+🌐 **Live Application:** [mr-certi.web.app](https://mr-certi.web.app)  
+💻 **Repository:** [PavanWadile77/Mr.Certi](https://github.com/PavanWadile77/Mr.Certi)
+
+---
+
+## 📚 UG eLibrary — Digital Learning Platform
+
+**2026 · Next.js · Firebase · Tailwind CSS**
+
+UG eLibrary connects **faculty and students** to share and access academic resources such as notes and assignments.
+
+### Key Engineering Features
+
+- Faculty-to-student resource sharing
+- Academic material access
+- Structured learning resources
+- Student-focused digital learning experience
+- Improved communication and collaboration between faculty and students
+
+🌐 **Live:** [ug-elibrary.in](https://ug-elibrary.in) · [ug-elibrary.web.app](https://ug-elibrary.web.app)  
+💻 **Repository:** [PavanWadile77/UG-eLibrary](https://github.com/PavanWadile77/UG-eLibrary)
+
+---
+
+## 🚌 Smart-Bus
+
+**Hackathon Project**
+
+A technology-focused project developed around a real-world transportation problem, emphasizing **problem analysis, innovation, teamwork and prototype development**.
+
+💻 **Repository:** [PavanWadile77/Smart-Bus](https://github.com/PavanWadile77/Smart-Bus)
+
+---
+
+## 🌾 Dr.Agri
+
+**Agriculture Technology Project**
+
+An application-oriented project focused on agriculture support and technology-driven solutions.
+
+💻 **Repository:** [PavanWadile77/Dr.Agri](https://github.com/PavanWadile77/Dr.Agri)
+
+---
+
+## 🧩 Additional Development Work
+
+| Repository | Focus |
 |:---|:---|
-| **Languages** | C · Java · Python · JavaScript · TypeScript |
-| **Frontend** | HTML · CSS · React · Next.js · Tailwind CSS |
-| **Backend / Cloud** | Firebase · Firestore · Firebase Hosting · Vercel |
-| **Database** | Firestore · MongoDB |
-| **Developer Tools** | Git · GitHub · VS Code · Figma |
-| **Core Practices** | Debugging · Version Control · Deployment · Documentation |
+| [Programing-Problem-Solving-C](https://github.com/PavanWadile77/Programing-Problem-Solving-C) | C Programming & Problem Solving |
+| [eCertiSystem](https://github.com/PavanWadile77/eCertiSystem) | Certificate System |
+| [CertiFlow](https://github.com/PavanWadile77/CertiFlow) | Certificate Workflow |
+| [Note-To-Text-Note](https://github.com/PavanWadile77/Note-To-Text-Note) | Application Development |
+| [Agri-Link](https://github.com/PavanWadile77/Agri-Link) | Agriculture Technology |
+| [Agri-Support](https://github.com/PavanWadile77/Agri-Support) | Agriculture Technology |
+| [E-CART-System](https://github.com/PavanWadile77/E-CART-System) | E-Commerce |
+| [ALPHA-STUDY](https://github.com/PavanWadile77/ALPHA-STUDY-) | Digital Learning |
 
 ---
 
-# 🚀 Featured Work
+## 🏗️ Development Workflow
 
-### 📚 UG-eLibrary
-**Education Technology • Full-Stack Web Application**
+```text
+Problem Identification
+        ↓
+Requirements & Research
+        ↓
+Solution / System Design
+        ↓
+Development
+        ↓
+Testing & Debugging
+        ↓
+Deployment
+        ↓
+Continuous Improvement
+```
 
-Digital academic resource platform designed around student and teacher workflows.
+### Development Approach
 
-**Engineering areas:** role-based workflows · academic resource organization · college/branch/year mapping · notes and previous-year papers · Firebase architecture · PWA-oriented experience.
+**Understand → Design → Build → Test → Deploy → Improve**
 
-🌐 **Live:** [ug-elibrary.in](https://ug-elibrary.in) · [ug-elibrary.web.app](https://ug-elibrary.web.app)
+---
 
-### 🎓 Mr.Certi
-**Certificate Automation • Digital Verification**
+## 💻 Development Environment
 
-Platform focused on certificate creation, distribution and verification.
+```text
+Languages       : C • Java • JavaScript
+Web             : HTML • CSS
+Frameworks      : React • Next.js • Tailwind CSS
+Backend         : Node.js
+Platform        : Firebase
+Version Control : Git • GitHub
+Design          : Graphic Design
+```
 
-**Engineering areas:** certificate workflows · bulk processing · QR verification · email distribution · administration · analytics.
+---
 
-🌐 **Live:** [mr-certi.web.app](https://mr-certi.web.app)
+## 🏆 Experience
 
-### 🚌 Smart-Bus
-**Smart Transportation • Hackathon Project**
+### Hackathon Participant — Navonnesh Hackathon, Shegaon · 2026
 
-Technology-focused transportation solution developed around a real-world mobility problem.
+Participated in the **Navonnesh Hackathon, Shegaon**, gaining practical experience in:
 
-### 🌾 Dr.Agri
-**AgriTech • Smart Farming**
+- Teamwork
+- Technological innovation
+- Real-time problem-solving
+- Developing solutions under hackathon constraints
 
-Agriculture-support project developed around practical farming assistance and technology-driven solutions.
+---
 
-### ⚡ CertiFlow
-**Automation • Certificate Workflow**
+## 🏅 Achievements
 
-Certificate workflow project exploring streamlined creation, distribution and verification.
+- **Youth for Impact Social Innovation Competition / Conference — IIM Indore:** Participated in poster presentation for the **Banana Fiber Adult Diaper** project.
+- Participated in **national-level hackathons and technical events**.
+- Developed practical application projects focused on education, certificate automation and technology-driven problem solving.
 
 ---
 
@@ -96,79 +207,50 @@ Certificate workflow project exploring streamlined creation, distribution and ve
 
 | Application | Purpose | Access |
 |:---|:---|:---:|
-| 🎓 **Mr.Certi** | Certificate creation, distribution & verification | [🔐 Open App](https://mr-certi.web.app/) |
+| 🎓 **Mr.Certi** | E-Certificate generation & distribution | [🔐 Open App](https://mr-certi.web.app/) |
 | 📚 **UG-eLibrary** | Digital learning & academic resources | [🔐 Open App](https://ug-elibrary.in/) |
-| 🪴 **ALPHA-STUDY** | Student learning & academic resources | [🔐 Open App](http://alpha-study-one.vercel.app/) |
+| 🪴 **ALPHA-STUDY** | Student-focused digital learning | [🔐 Open App](http://alpha-study-one.vercel.app/) |
 
 </div>
 
-> **Login / authentication:** Each application opens through its deployed application entry point. Authentication and role-based access are handled inside the respective application.
-
 ---
 
-## 🧩 Project Portfolio
-
-| Repository | Engineering Area |
-|:---|:---|
-| [Programing-Problem-Solving-C](https://github.com/PavanWadile77/Programing-Problem-Solving-C) | C Programming & Problem Solving |
-| [eCertiSystem](https://github.com/PavanWadile77/eCertiSystem) | Certificate Systems |
-| [CertiFlow](https://github.com/PavanWadile77/CertiFlow) | Automation |
-| [Note-To-Text-Note](https://github.com/PavanWadile77/Note-To-Text-Note) | Productivity / Application |
-| [Agri-Link](https://github.com/PavanWadile77/Agri-Link) | AgriTech |
-| [Agri-Support](https://github.com/PavanWadile77/Agri-Support) | AgriTech |
-| [E-CART-System](https://github.com/PavanWadile77/E-CART-System) | E-Commerce |
-| [Dr.Agri](https://github.com/PavanWadile77/Dr.Agri) | AgriTech |
-| [Smart-Bus](https://github.com/PavanWadile77/Smart-Bus) | Smart Transportation |
-| [Solar](https://github.com/PavanWadile77/Solar) | Web / Technology |
-| [ALPHA-STUDY](https://github.com/PavanWadile77/ALPHA-STUDY-) | EdTech |
-| [UG-eLibrary](https://github.com/PavanWadile77/UG-eLibrary) | EdTech / Full-Stack |
-
----
-
-## 🏗️ Engineering Workflow
+## ☁️ Technology & Deployment
 
 <div align="center">
-<img src="https://img.shields.io/badge/01-Problem_&_Research-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/02-Architecture-4F46E5?style=for-the-badge">
-<img src="https://img.shields.io/badge/03-Development-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/04-Testing-9333EA?style=for-the-badge">
-<img src="https://img.shields.io/badge/05-Deployment-A855F7?style=for-the-badge">
-<img src="https://img.shields.io/badge/06-Iteration-C026D3?style=for-the-badge">
-</div>
 
-> Build → test → deploy → observe → improve.
-
----
-
-## ☁️ Deployment & Infrastructure
-
-<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel">
+
 </div>
 
-Typical workflow:
+**Development Flow**
 
-**Git → GitHub → Build → Firebase/Vercel → Production → Feedback → Iteration**
-
----
-
-## 🏆 Hackathons & Recognition
-
-| Event | Contribution |
-|:---|:---|
-| **Youth for Impact Social Innovation Conference – IIM Indore** | Banana Fiber Adult Diaper — Poster Presentation |
-| **Nommonmesh Hackathon 2026 – SSGMCE** | Dr.Agri — Agriculture Support Application |
-| **National-Level Hackathons** | Problem solving, prototyping and product development |
+```text
+Source Code
+    ↓
+Git / GitHub
+    ↓
+Build & Test
+    ↓
+Firebase / Vercel
+    ↓
+Deployed Web Application
+```
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=PavanWadile77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github">
+
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanWadile77&theme=tokyonight&hide_border=true">
+
 <br><br>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanWadile77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+
 </div>
 
 ---
@@ -176,31 +258,48 @@ Typical workflow:
 ## 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanWadile77&theme=tokyo-night&hide_border=true&area=true" width="95%">
+
 </div>
 
 ---
 
-## 🎯 Engineering Roadmap
+## 🎯 Current Learning Focus
 
-**Programming** → C → Java → Problem Solving → DSA
-
-**Frontend** → HTML/CSS → JavaScript → React → TypeScript
-
-**Cloud** → Firebase → Firestore → Authentication → Deployment
-
-**Product Engineering** → Architecture → Automation → Scalability
-
-**Emerging Tech** → AI-assisted Development → Intelligent Applications
+```text
+Programming Fundamentals
+        │
+        ├── C
+        └── Java
+        │
+        ▼
+Web Development
+        │
+        ├── HTML / CSS / JavaScript
+        ├── React
+        └── Next.js
+        │
+        ▼
+Application Development
+        │
+        ├── Node.js
+        ├── Firebase
+        └── Tailwind CSS
+        │
+        ▼
+Problem Solving & Innovation
+```
 
 ---
 
-## 🌐 Live Products
+## 🌐 Live Projects
 
-| Product | Access |
+| Project | Link |
 |:---|:---|
-| **UG-eLibrary** | [ug-elibrary.in](https://ug-elibrary.in) |
 | **Mr.Certi** | [mr-certi.web.app](https://mr-certi.web.app) |
+| **UG-eLibrary** | [ug-elibrary.in](https://ug-elibrary.in) |
+| **UG-eLibrary — Firebase** | [ug-elibrary.web.app](https://ug-elibrary.web.app) |
 | **ALPHA Study** | [alpha-study-one.vercel.app](http://alpha-study-one.vercel.app/) |
 | **Portfolio** | [pavanwadile77.wixsite.com/wadile](https://pavanwadile77.wixsite.com/wadile) |
 
@@ -208,7 +307,7 @@ Typical workflow:
 
 <div align="center">
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <a href="https://github.com/PavanWadile77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pavan-wadile-7a7043282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -218,6 +317,7 @@ Typical workflow:
 <a href="https://www.facebook.com/pavan.wadile.777/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 <br><br>
-**Build • Learn • Deploy • Iterate**
+
+**Build • Learn • Solve • Deploy**
 
 </div>
