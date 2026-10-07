@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech Information Technology student at SVKM College of Engineering, Shirpur (DBATU)**, focused on **web development, problem-solving, practical application development, technology and innovation**.
+**B.Tech Information Technology student at SVKM College of Engineering, Shirpur (DBATU)**, focused on **web development, problem-solving, practical application development, technology and innovation**.
 
 I enjoy converting ideas into working applications and exploring how software can solve real-world problems through structured development and continuous learning.
 
