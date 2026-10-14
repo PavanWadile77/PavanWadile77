@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/pavan.wadile.777/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=PavanWadile77&label=Profile%20views&color=2563eb&style=for-the-badge">
+![Profile Views](https://komarev.com/ghpvc/?username=PavanWadile77&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge)
 
 </div>
 
