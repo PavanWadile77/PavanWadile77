@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/pavan.wadile.777/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=PavanWadile77&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=PavanWadile77&label=Profile%20views&color=2563eb&style=for-the-badge">
 
 </div>
 
@@ -243,13 +243,13 @@ Deployed Web Application
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PavanWadile77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PavanWadile77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanWadile77&theme=tokyonight&hide_border=true">
+<img height="180" src="https://streak-stats.demolab.com?user=PavanWadile77&theme=tokyonight&hide_border=true">
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanWadile77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanWadile77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400">
 
 </div>
 
