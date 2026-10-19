@@ -2,7 +2,7 @@
 
 # PAVAN WADILE
 
-### Aspiring Full-Stack Developer • AI & Web Application Builder • B.Tech IT Student
+### Information Technology Student • Web Developer • Problem Solver
 
 <p>
 <a href="https://github.com/PavanWadile77"><img src="https://img.shields.io/badge/GitHub-PavanWadile77-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -17,22 +17,19 @@
 <a href="https://www.facebook.com/pavan.wadile.777/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PavanWadile77&label=PROFILE+VIEWS&color=2563eb&style=for-the-badg## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=PavanWadile77&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge)
 
-I'm a **B.Tech Information Technology student at SVKM's College of Engineering, Shirpur (DBATU)** with a strong interest in **full-stack development, web technologies, and AI-powered applications**. I enjoy turning ideas into practical digital products, learning by building, and solving real-world problems through technology.
+</div>
 
-I work with technologies such as **C, Java, JavaScript, React, Next.js, Node.js, and Firebase**, and I continue to strengthen my skills in software development, application design, and deployment.
+---
 
-### What I'm Working Toward
+## 👨‍💻 About Me
 
-- Building useful, responsive web applications with a focus on usability and reliability.
-- Exploring AI-powered tools and application workflows.
-- Developing projects for education, certificate automation, and agriculture support.
-- Improving my problem-solving skills through hands-on projects and hackathons.
+**B.Tech Information Technology student at SVKM College of Engineering, Shirpur (DBATU)**, focused on **web development, problem-solving, practical application development, technology and innovation**.
 
-**Career focus:** Full-Stack Development · Web Applications · AI-Powered Products · Problem Solving
+I enjoy converting ideas into working applications and exploring how software can solve real-world problems through structured development and continuous learning.
 
-**Mindset:** Learn continuously, build thoughtfully, test carefully, and improve with feedback.ogy • Innovation
+> **Focus:** Web Development • Problem Solving • Technology • Innovation
 
 ---
 
